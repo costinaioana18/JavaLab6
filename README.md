@@ -7,7 +7,7 @@ I completed all the compulsory part tasks:
 
 - Creating a configuration panel on the top of the frame, where the client can select the shape's type, size, color, nr of sides.
 
-* the color can be random generated, if the client selects this option
+* *the color can be random generated, if the client selects this option
 
 - Creating a drawing panel in the center of the frame. When the client clicks on this area, a shape is drawn( with the characteristics the client had chosen) 
 

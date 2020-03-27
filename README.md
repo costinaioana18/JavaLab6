@@ -13,4 +13,4 @@ I completed all the compulsory part tasks:
 
 - Creating a control panel at the bottom of the frame, which contains Save, Load, Reset and Exit buttons. All the buttons are functional. (see the attached photo)
 
-**Besides the png photo which was saved by the apllication, I attached a screenshot with the running app.
+**Besides the png photo which was saved by the apllication, I attached a screenshot showing the running app.

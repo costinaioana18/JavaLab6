@@ -5,7 +5,7 @@ I completed all the compulsory part tasks:
 
 - Creating a mainframe of the application
 
-- Creating a configuration panel on the top of the frame, where the client can select the shape's type, size, color, nr of sides.
+- Creating a configuration panel on the top of the frame, where the client can select the shape's type, size, color, nr of sides. There are two types of shapes: Regular polygons and Special shape (Which is, in fact, an ellipse).
 
 * *the color can be random generated, if the client selects this option
 
